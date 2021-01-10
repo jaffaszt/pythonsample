@@ -1,1 +1,1 @@
-# Sources with Dockerfile to assemble the docker image.
+# phyton sample to play with IBM Code Engine
